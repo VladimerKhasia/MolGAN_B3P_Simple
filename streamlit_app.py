@@ -14,7 +14,7 @@ import warnings
 
 from rdkit import Chem, RDLogger
 from rdkit.Chem import PyMol, AllChem, Draw
-from rdkit.Chem.Draw import IPythonConsole, MolsToGridImage
+#from rdkit.Chem.Draw import IPythonConsole, MolsToGridImage
 
 from stmol import showmol
 import py3Dmol
