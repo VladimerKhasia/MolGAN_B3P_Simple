@@ -1,2 +1,2 @@
 # MolGAN_B3P_Simple
-Deamo
+[Demo App](https://share.streamlit.io/vladimerkhasia/molgan_b3p_simple/main)
