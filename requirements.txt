@@ -7,3 +7,4 @@ pandas==1.3.5
 Pillow==7.1.2
 tensorflow
 keras==2.8.0
+click==8.0.4
